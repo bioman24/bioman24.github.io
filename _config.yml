@@ -1,7 +1,7 @@
 # Site settings
 title: Joshua Beams - PD/DA
 description: "My name is Joshua Beams, and I'm a Program Developer/Data Analyst currently working at Amazon."
-baseurl: "/space-jekyll-template" 
+baseurl: "" 
 url: "https://bioman24.github.io" # for test: remove to '' but in production: 'https://bioman24.github.io'
 
 # User settings
