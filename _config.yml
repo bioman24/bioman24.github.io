@@ -1,19 +1,16 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
-baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+title: Joshua Beams - PD/DA
+description: "My name is Joshua Beams, and I'm a Program Developer/Data Analyst currently working at Amazon."
+baseurl: "" 
+url: "https://bioman24.github.io" # for test: remove to '' but in production: 'https://bioman24.github.io'
 
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+username: bioman24
+user_title: Joshua Beams - Program Developer and Data Analyst
+email: beamsaiv@protonmail.com
+twitter_username: joshuable24
+github_username:  bioman24
+profile_picture: https://avatars0.githubusercontent.com/u/38814154?s=400&u=8a363e5df2e75a6f238884f950a64e14896a7f95&v=4
 
 # Build settings
 markdown: kramdown
@@ -47,11 +44,11 @@ links:
       key_trigger: 5
   section_2:
     - title: github
-      url: http://www.github.com/victorvoid
+      url: http://www.github.com/bioman24
       new_tab: true
       key_trigger: g
     - title: twitter
-      url: http://www.twitter.com/victorvoid
+      url: http://www.twitter.com/joshuable24
       key_trigger: t
     - title: search
       url: ""
@@ -59,8 +56,8 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
-    url: https://github.com/fluany/fluany
+  - name: space-jekyll-template
+    url: https://github.com/bioman24/space-jekyll-template
   - name: vim-frontend
     url: https://github.com/victorvoid/vim-frontend
   - name: generator-capybara
