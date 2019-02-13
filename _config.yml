@@ -3,6 +3,7 @@ title: Joshua Beams - PD/DA
 description: "My name is Joshua Beams, and I'm a Program Developer/Data Analyst currently working at Amazon."
 baseurl: "" 
 url: "https://bioman24.github.io" # for test: remove to '' but in production: 'https://bioman24.github.io'
+remote_theme: "https://github.com/bioman24/space-jekyll-template"
 
 # User settings
 username: bioman24
